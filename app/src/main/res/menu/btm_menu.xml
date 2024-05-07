@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/datasetsFragment"
+        android:icon="@drawable/ic_dataset"
+        android:title="Datasets" />
+
+    <item
+        android:id="@+id/infoFragment"
+        android:icon="@drawable/ic_appinfo"
+        android:title="App Info" />
+
+
+</menu>

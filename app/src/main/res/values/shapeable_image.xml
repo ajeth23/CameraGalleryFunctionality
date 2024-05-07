@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--imageview corner size-->
+    <style name="roundedCornersImageView" parent="">
+        <item name="cornerSizeBottomLeft">0dp</item>
+        <item name="cornerSizeBottomRight">50dp</item>
+        <item name="backgroundColor">@color/white</item>>
+        <item name="color">@color/white</item>
+    </style>
+
+</resources>
